@@ -7,6 +7,9 @@
 **/__pycache__
 
 # large folders
-datasets/SMILEsmileD
 datasets/animals
-
+datasets/caltech-101
+datasets/flowers17
+datasets/SMILEsmileD
+datasets/ukbench100
+output/21-feature-extraction
