@@ -1,9 +1,6 @@
 # pyimagesearch
-* Project repository for [PyImageSearch](https://www.pyimagesearch.com/) (scripts converted to ```.ipynb``` to run on Google Colab).
-* All credit for this repository goes to [Adrian Rosebrock](https://github.com/jrosebr1).
 
 ### Mapping Scripts to Chapters
-
 #### Practical OpenCV
 - ```01-load_display_save.py``` (chapter 03)
 - ```02-getting_and_setting.py``` (chapter 04)
@@ -31,3 +28,7 @@
 - ```24-sobel_and_laplacian.py``` (chapter 10)
 - ```25-canny.py``` (chapter 10)
 - ```26-counting_coins.py``` (chapter 11)
+
+### Credits
+* Project repository for [PyImageSearch](https://www.pyimagesearch.com/).
+* All credit for this repository goes to [Adrian Rosebrock](https://github.com/jrosebr1).

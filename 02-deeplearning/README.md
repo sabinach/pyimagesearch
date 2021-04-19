@@ -1,7 +1,4 @@
 # pyimagesearch
-* Project repository for [PyImageSearch](https://www.pyimagesearch.com/) (scripts converted to ```.ipynb``` to run on Google Colab).
-* Large image datasets/outputs have been omitted (mostly from the ```datasets/``` or ```outputs/``` folders).
-* All credit for this repository goes to [Adrian Rosebrock](https://github.com/jrosebr1).
 
 ### Mapping Notebooks to Chapters
 
@@ -38,3 +35,8 @@
 - ```xxx.ipynb``` (chapter xxx)
 - ```xxx.ipynb``` (chapter xxx)
 - ```xxx.ipynb``` (chapter xxx)
+
+### Credits
+* Project repository for [PyImageSearch](https://www.pyimagesearch.com/) (scripts converted to ```.ipynb``` to run on Google Colab).
+* Large image datasets/outputs have been omitted (mostly from the ```datasets/``` or ```outputs/``` folders).
+* All credit for this repository goes to [Adrian Rosebrock](https://github.com/jrosebr1).
