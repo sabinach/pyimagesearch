@@ -11,6 +11,7 @@
 # large folders
 datasets/animals
 datasets/caltech-101
+datasets/dogs-vs-cats
 datasets/flowers17
 datasets/SMILEsmileD
 datasets/ukbench100
