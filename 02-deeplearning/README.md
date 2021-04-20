@@ -36,8 +36,8 @@
 - ```29-mini-googlenet-cifar10.ipynb``` (chapter 11)
 - ```30-deeper-googlenet-tiny-imagenet.ipynb``` (chapter 11)
 
-...resnet (chapter 12)
-...obj_detection (chapter 13)
+... resnet (chapter 12) ...       
+... obj_detection (chapter 13) ...
 
 - ```32-deep-dream.ipynb``` (chapter 14)
 - ```xxx.ipynb``` (chapter xxx)
