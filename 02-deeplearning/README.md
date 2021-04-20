@@ -33,8 +33,19 @@
 - ```26-dogs-vs-cats-build-hdf5.ipynb``` (chapter 09)
 - ```27-dogs-vs-cats-alexnet.ipynb``` (chapter 10)
 - ```28-dogs-vs-cats-resnet-with-feature-extraction.ipynb``` (chapter 10)
+- ```29-mini-googlenet-cifar10.ipynb``` (chapter 10)
+- ```30-deeper-googlenet-tiny-imagenet.ipynb``` (chapter 10)
 - ```xxx.ipynb``` (chapter xxx)
 - ```xxx.ipynb``` (chapter xxx)
+- ```xxx.ipynb``` (chapter xxx)
+- ```xxx.ipynb``` (chapter xxx)
+- ```xxx.ipynb``` (chapter xxx)
+
+#### Files Not Run (dataset too large to run on Colab):
+- ```26-dogs-vs-cats-build-hdf5.ipynb.ipynb```
+- ```27-dogs-vs-cats-alexnet.ipynb```
+- ```28-dogs-vs-cats-resnet-with-feature-extraction.ipynb```
+- ```30-deeper-googlenet-tiny-imagenet.ipynb```
 
 ### Credits
 * Project repository for [PyImageSearch](https://www.pyimagesearch.com/) (scripts converted to ```.ipynb``` to run on Google Colab).

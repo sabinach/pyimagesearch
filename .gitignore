@@ -18,3 +18,4 @@ datasets/SMILEsmileD
 datasets/tiny-imagenet-200
 datasets/ukbench100
 output/21-feature-extraction
+output/26-kaggle-dogs-vs-cats/hdf5
