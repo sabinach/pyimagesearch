@@ -30,9 +30,9 @@
 - ```23-inspect-model.ipynb``` (chapter 05)
 - ```24-fine-tuning.ipynb``` (chapter 05)
 - ```25-ensembles.ipynb``` (chapter 06)
-- ```xxx.ipynb``` (chapter xxx)
-- ```xxx.ipynb``` (chapter xxx)
-- ```xxx.ipynb``` (chapter xxx)
+- ```26-dogs-vs-cats-build-hdf5.ipynb``` (chapter 09)
+- ```27-dogs-vs-cats-alexnet.ipynb``` (chapter 10)
+- ```28-dogs-vs-cats-resnet-with-feature-extraction.ipynb``` (chapter 10)
 - ```xxx.ipynb``` (chapter xxx)
 - ```xxx.ipynb``` (chapter xxx)
 
