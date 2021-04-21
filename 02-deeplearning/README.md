@@ -31,25 +31,23 @@
 - ```24-fine-tuning.ipynb``` (chapter 05)
 - ```25-ensembles.ipynb``` (chapter 06)
 - ```26-dogs-vs-cats-build-hdf5.ipynb``` (chapter 09)
-- ```27-dogs-vs-cats-alexnet.ipynb``` (chapter 10)
-- ```28-dogs-vs-cats-resnet-with-feature-extraction.ipynb``` (chapter 10)
+- ```27-dogs-vs-cats-alexnet.ipynb``` (chapter 10) 
+- ```28-dogs-vs-cats-resnet-with-feature-extraction.ipynb``` (chapter 10) 
 - ```29-mini-googlenet-cifar10.ipynb``` (chapter 11)
 - ```30-deeper-googlenet-tiny-imagenet.ipynb``` (chapter 11)
-
-... resnet (chapter 12) ...       
-... obj_detection (chapter 13) ...
-
+- resnet (chapter 12)       
+- obj_detection (chapter 13)
 - ```32-deep-dream.ipynb``` (chapter 14)
-- ```xxx.ipynb``` (chapter xxx)
-- ```xxx.ipynb``` (chapter xxx)
-- ```xxx.ipynb``` (chapter xxx)
-- ```xxx.ipynb``` (chapter xxx)
+- ```33-neural-style.ipynb``` (chapter 15)
+- ```34-dcgan-mnist.ipynb``` (chapter 16)
+- ```35-super-resolution.ipynb``` (chapter 17)
 
 #### Files Not Run (dataset too large to run on Colab):
 - ```26-dogs-vs-cats-build-hdf5.ipynb.ipynb```
 - ```27-dogs-vs-cats-alexnet.ipynb```
 - ```28-dogs-vs-cats-resnet-with-feature-extraction.ipynb```
 - ```30-deeper-googlenet-tiny-imagenet.ipynb```
+- ```35-super-resolution.ipynb```
 
 ### Credits
 * Project repository for [PyImageSearch](https://www.pyimagesearch.com/) (scripts converted to ```.ipynb``` to run on Google Colab).
